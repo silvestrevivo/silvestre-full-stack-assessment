@@ -1,0 +1,15 @@
+{
+  "name": "silvestre-full-stack-assessment-frontend-backend",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "backend for full stack assessment",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
